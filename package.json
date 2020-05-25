@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "5.2.59",
+	"version": "5.2.60",
 	"description": "ctx-core core-js",
 	"type": "module",
 	"main": "lib.js",
@@ -30,9 +30,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.29",
-		"@ctx-core/object": "^8.0.12",
-		"@ctx-core/package": "^3.1.52"
+		"@ctx-core/env": "^8.3.30",
+		"@ctx-core/object": "^8.0.13",
+		"@ctx-core/package": "^3.1.53"
 	},
 	"devDependencies": {
 		"typescript": "^3.9.3"
