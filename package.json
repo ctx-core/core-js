@@ -34,7 +34,7 @@
 		"@ctx-core/package": "^3.1.61"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.6"
+		"typescript": "^3.9.7"
 	},
 	"gitHead": "85dd4c8d8635995718d01adea68694b89fdbf4d2"
 }
