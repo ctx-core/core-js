@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "5.2.91",
+	"version": "5.2.92",
 	"description": "ctx-core core-js",
 	"main": "./index.js",
 	"module": "./index.js",
@@ -29,9 +29,9 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/env": "^8.3.59",
-		"@ctx-core/object": "^9.0.13",
-		"@ctx-core/package": "^3.1.78"
+		"@ctx-core/env": "^8.3.60",
+		"@ctx-core/object": "^9.0.14",
+		"@ctx-core/package": "^3.1.79"
 	},
 	"devDependencies": {
 		"typescript": "^4.0.2"
