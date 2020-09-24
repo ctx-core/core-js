@@ -1,5 +1,12 @@
 # @ctx-core/core-js
 
+## 6.0.21
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.13
+
 ## 6.0.20
 
 ### Patch Changes
