@@ -1,5 +1,15 @@
 # @ctx-core/core-js
 
+## 6.0.34
+
+### Patch Changes
+
+- typescript: ^4.0.3 -> ^4.0.5
+- Updated dependencies [undefined]
+  - @ctx-core/env@9.0.25
+  - @ctx-core/object@13.0.1
+  - @ctx-core/package@5.0.23
+
 ## 6.0.33
 
 ### Patch Changes
