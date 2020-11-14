@@ -1,5 +1,12 @@
 # @ctx-core/core-js
 
+## 6.0.38
+
+### Patch Changes
+
+- @ctx-core/package@5.0.25
+- @ctx-core/env@9.0.28
+
 ## 6.0.37
 
 ### Patch Changes
