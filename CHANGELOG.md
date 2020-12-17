@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 7.0.0
+
+### Major Changes
+
+- \_URL**SHIM**CORE_JS->\_CORE_JS_SHIM_URL,\_version**core_js->\_core_js_version,URL**SHIM\_\_CORE_JS->CORE_JS_SHIM_URL
+
 ## 6.0.49
 
 ### Patch Changes
