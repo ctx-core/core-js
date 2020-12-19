@@ -1,5 +1,13 @@
 # @ctx-core/core-js
 
+## 7.0.5
+
+### Patch Changes
+
+- @ctx-core/env@9.1.10
+- @ctx-core/object@15.0.7
+- @ctx-core/package@5.0.38
+
 ## 7.0.4
 
 ### Patch Changes
