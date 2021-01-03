@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 7.0.19
+
+### Patch Changes
+
+- remove @ctx-core/env dependency
+
 ## 7.0.18
 
 ### Patch Changes
