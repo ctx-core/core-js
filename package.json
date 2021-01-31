@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "7.0.24",
+	"version": "7.0.25",
 	"description": "ctx-core core-js",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "workspace:^16.1.0",
-		"@ctx-core/package": "workspace:^5.0.54"
+		"@ctx-core/package": "workspace:^5.0.55"
 	},
 	"devDependencies": {
 		"typescript": "^4.1.3"
