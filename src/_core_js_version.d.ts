@@ -1,1 +1,1 @@
-export declare function _core_js_version(): any;
+export declare function _core_js_version(): string;
