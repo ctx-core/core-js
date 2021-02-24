@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 8.0.18
+
+### Patch Changes
+
+- @ctx-core/package@6.1.3
+
 ## 8.0.17
 
 ### Patch Changes
