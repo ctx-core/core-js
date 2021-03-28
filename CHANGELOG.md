@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 8.0.29
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.1
+  - @ctx-core/package@6.1.14
+
 ## 8.0.28
 
 ### Patch Changes
