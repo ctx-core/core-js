@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 8.0.32
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.4.4
+  - @ctx-core/package@6.1.17
+
 ## 8.0.31
 
 ### Patch Changes
