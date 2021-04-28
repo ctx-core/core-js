@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 8.0.41
+
+### Patch Changes
+
+- update dependencies
+- Updated dependencies [undefined]
+  - @ctx-core/object@17.5.13
+  - @ctx-core/package@6.1.21
+
 ## 8.0.40
 
 ### Patch Changes
