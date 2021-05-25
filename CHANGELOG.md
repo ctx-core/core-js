@@ -1,5 +1,17 @@
 # @ctx-core/core-js
 
+## 8.3.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@18.2.0
+  - @ctx-core/package@6.4.0
+
 ## 8.2.1
 
 ### Patch Changes
