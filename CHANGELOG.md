@@ -1,5 +1,19 @@
 # @ctx-core/core-js
 
+## 9.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+- Updated dependencies [undefined]
+  - @ctx-core/object@19.0.0
+  - @ctx-core/package@7.0.0
+
 ## 8.3.1
 
 ### Patch Changes
@@ -694,7 +708,7 @@
 
 ### Major Changes
 
-- \_URL**SHIM**CORE_JS->\_CORE_JS_SHIM_URL,\_version**core_js->\_core_js_version,URL**SHIM\_\_CORE_JS->CORE_JS_SHIM_URL
+- \_URL**SHIM**CORE*JS->\CORE_JS_SHIM_URL*,\_version**core_js->\_core_js_version,URL**SHIM\_\_CORE_JS->CORE_JS_SHIM_URL
 
 ## 6.0.49
 
