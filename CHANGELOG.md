@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 10.0.1
+
+### Patch Changes
+
+- typescript: ^4.3.2 -> ^4.3.3
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.2
+  - @ctx-core/package@8.0.1
+
 ## 10.0.0
 
 ### Major Changes
