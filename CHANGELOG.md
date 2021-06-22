@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 10.0.7
+
+### Patch Changes
+
+- "prepublishOnly": "npm run clean && npm run compile"
+- Updated dependencies [undefined]
+  - @ctx-core/object@20.0.8
+  - @ctx-core/package@8.0.7
+
 ## 10.0.6
 
 ### Patch Changes
