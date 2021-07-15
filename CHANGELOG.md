@@ -1,5 +1,17 @@
 # @ctx-core/core-js
 
+## 11.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.0
+  - @ctx-core/package@9.0.0
+
 ## 10.0.20
 
 ### Patch Changes
