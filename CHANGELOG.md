@@ -1,5 +1,13 @@
 # @ctx-core/core-js
 
+## 11.0.3
+
+### Patch Changes
+
+- fix: import.meta.url instead of \_\_dirname
+- Updated dependencies [undefined]
+  - @ctx-core/package@9.0.3
+
 ## 11.0.2
 
 ### Patch Changes

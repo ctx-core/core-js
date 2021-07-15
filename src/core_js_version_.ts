@@ -1,5 +1,5 @@
 import { package_version_ } from '@ctx-core/package'
-export function core_js_version_() {
+export async function core_js_version_():Promise<string> {
 	return package_version_('core-js')
 }
 export {
