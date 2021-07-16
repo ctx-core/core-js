@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.0.9
+
+### Patch Changes
+
+- "main": "./dist/index.cjs"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.7
+  - @ctx-core/package@9.0.8
+
 ## 11.0.8
 
 ### Patch Changes
