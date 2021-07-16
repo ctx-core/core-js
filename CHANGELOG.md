@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.0.4
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+- Updated dependencies [undefined]
+  - @ctx-core/object@21.0.3
+  - @ctx-core/package@9.0.4
+
 ## 11.0.3
 
 ### Patch Changes
