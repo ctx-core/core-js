@@ -1,5 +1,27 @@
 # @ctx-core/core-js
 
+## 11.0.23
+
+### Patch Changes
+
+- @swc/cli: ^0.1.51 -> ^0.1.52
+- @swc/core: ^1.2.111 -> ^1.2.113
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/package@9.1.4
+  - @ctx-core/object@21.0.26
+
+## 11.0.22
+
+### Patch Changes
+
+- @swc/core: ^1.2.110 -> ^1.2.111
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/package@9.1.3
+  - @ctx-core/object@21.0.25
+
 ## 11.0.21
 
 ### Patch Changes
