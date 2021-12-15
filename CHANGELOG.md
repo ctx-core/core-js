@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.0.32
+
+### Patch Changes
+
+- fix: package.json: exports
+- Updated dependencies
+  - @ctx-core/object@22.0.2
+  - @ctx-core/package@9.1.14
+
 ## 11.0.31
 
 ### Patch Changes
