@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.0.37
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+- Updated dependencies
+  - @ctx-core/object@22.0.7
+  - @ctx-core/package@9.1.19
+
 ## 11.0.36
 
 ### Patch Changes
