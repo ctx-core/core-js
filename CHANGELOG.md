@@ -1,5 +1,13 @@
 # @ctx-core/core-js
 
+## 11.0.39
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/package@9.1.21
+
 ## 11.0.38
 
 ### Patch Changes
