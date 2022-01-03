@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "11.0.39",
+	"version": "11.0.40",
 	"description": "ctx-core core-js",
 	"keywords": [
 		"ctx-core",
@@ -35,8 +35,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "workspace:^22.0.9",
-		"@ctx-core/package": "workspace:^9.1.21"
+		"@ctx-core/object": "workspace:^22.0.10",
+		"@ctx-core/package": "workspace:^9.1.22"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.55",
