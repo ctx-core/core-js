@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "11.0.61",
+	"version": "11.0.62",
 	"description": "ctx-core core-js",
 	"keywords": [
 		"ctx-core",
@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^22.8.2",
+		"@ctx-core/object": "^22.9.0",
 		"@ctx-core/package": "^9.1.50"
 	},
 	"devDependencies": {
