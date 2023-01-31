@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.0.80
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+- Updated dependencies
+  - @ctx-core/object@24.1.1
+  - @ctx-core/package@9.1.61
+
 ## 11.0.79
 
 ### Patch Changes
