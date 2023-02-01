@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 11.0.83
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 11.0.82
 
 ### Patch Changes
