@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 11.1.0
+
+### Minor Changes
+
+- extract _.js & _.d.ts into directories
+
 ## 11.0.91
 
 ### Patch Changes
