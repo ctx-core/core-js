@@ -1,5 +1,12 @@
 # @ctx-core/core-js
 
+## 11.1.95
+
+### Patch Changes
+
+- Updated dependencies
+  - @ctx-core/object@28.0.0
+
 ## 11.1.94
 
 ### Patch Changes
