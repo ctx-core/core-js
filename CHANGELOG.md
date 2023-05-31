@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 11.1.94
+
+### Patch Changes
+
+- @ctx-core/package: ^9.2.73 -> ^9.2.74
+
 ## 11.1.93
 
 ### Patch Changes
