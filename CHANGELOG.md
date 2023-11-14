@@ -1,5 +1,14 @@
 # @ctx-core/core-js
 
+## 11.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - @ctx-core/object@30.1.3
+  - @ctx-core/package@9.3.3
+
 ## 11.2.2
 
 ### Patch Changes
