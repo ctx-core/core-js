@@ -1,5 +1,15 @@
 # @ctx-core/core-js
 
+## 11.2.42
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+- Updated dependencies
+- Updated dependencies
+  - @ctx-core/object@31.1.7
+  - @ctx-core/package@9.3.28
+
 ## 11.2.41
 
 ### Patch Changes
