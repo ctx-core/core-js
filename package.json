@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "11.2.85",
+	"version": "11.2.86",
 	"description": "ctx-core core-js",
 	"keywords": [
 		"ctx-core",
@@ -40,7 +40,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/object": "^31.1.29",
+		"@ctx-core/object": "^31.1.30",
 		"@ctx-core/package": "^9.3.53"
 	},
 	"devDependencies": {
