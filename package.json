@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/core-js",
-	"version": "11.2.95",
+	"version": "11.2.96",
 	"description": "ctx-core core-js",
 	"keywords": [
 		"ctx-core",
@@ -41,7 +41,7 @@
 	},
 	"dependencies": {
 		"@ctx-core/object": "^31.1.35",
-		"@ctx-core/package": "^9.3.58"
+		"@ctx-core/package": "^9.3.59"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
