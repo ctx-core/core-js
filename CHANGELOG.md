@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 11.2.99
+
+### Patch Changes
+
+- consolidate dependencies
+
 ## 11.2.98
 
 ### Patch Changes
