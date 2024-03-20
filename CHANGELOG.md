@@ -1,5 +1,13 @@
 # @ctx-core/core-js
 
+## 11.2.210
+
+### Patch Changes
+
+- package.json: author: url,email
+- Updated dependencies
+  - @ctx-core/package@9.3.174
+
 ## 11.2.209
 
 ### Patch Changes
