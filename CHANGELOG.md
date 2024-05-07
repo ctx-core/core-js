@@ -1,5 +1,11 @@
 # @ctx-core/core-js
 
+## 11.2.236
+
+### Patch Changes
+
+- version bump
+
 ## 11.2.235
 
 ### Patch Changes
