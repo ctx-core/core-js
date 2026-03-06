@@ -1,5 +1,13 @@
 # @ctx-core/core-js
 
+## 11.2.265
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+- Updated dependencies
+  - @ctx-core/package@9.3.228
+
 ## 11.2.264
 
 ### Patch Changes
